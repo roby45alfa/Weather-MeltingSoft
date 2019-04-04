@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MeltingSoft Weather</string>
+    <string name="Meteo">Meteo Vercelli</string>
+    <string name="Crediti">Crediti</string>
+    <string name="Title">MeltingSoft\'s Weather</string>
+    <string name="test">12 °C</string>
+</resources>
