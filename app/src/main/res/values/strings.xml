@@ -4,5 +4,9 @@
     <string name="Crediti">Crediti</string>
     <string name="Title">MeltingSoft\'s Weather</string>
     <string name="test">12 °C</string>
-    <string name="ciao">Ciao</string>
+    <string name ="humidity">Umidità</string>
+    <string name = "test2">70%</string>
+    <string name = "pressure">Pressione</string>
+    <string name ="test3">99KPa</string>
+    <string name ="temperatura">Temperatura</string>
 </resources>
