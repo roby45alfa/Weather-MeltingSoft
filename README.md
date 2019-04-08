@@ -1,5 +1,6 @@
 # Weather-MeltingSoft
-0.0 Inizio del Progetto
-0.1 Stesura della prima bozza
-0.2 Layout activity_weather
-0.3 Modifica FullScreen
+### Versioni
+**0.0** Inizio del Progetto<br>
+**0.1** Stesura della prima bozza<br>
+**0.2** Layout activity_weather<br>
+**0.3** Modifica FullScreen<br>
