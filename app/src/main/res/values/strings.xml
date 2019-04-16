@@ -9,4 +9,6 @@
     <string name = "pressure">Pressione</string>
     <string name ="test3">99KPa</string>
     <string name ="temperatura">Temperatura</string>
+    <string name = "title">MeltingSoft\nWeather Station</string>
+    <string name = "logo">Logo</string>
 </resources>
